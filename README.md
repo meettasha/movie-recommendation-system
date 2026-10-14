@@ -113,4 +113,4 @@ Manipal University Jaipur
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 - [Surprise: A Python Scikit for Building and Analyzing Recommender Systems](https://surpriselib.com/)
 
-*Developed as part of a Recommender Systems academic project.*
+
