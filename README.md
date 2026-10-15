@@ -1,6 +1,6 @@
 # movie-recommendation-system
 
-A ** Movie Recommendation System** that combines Content-Based Filtering and Collaborative Filtering to recommend movies based on movie similarities and user preferences.
+A Movie Recommendation System that combines Content-Based Filtering and Collaborative Filtering to recommend movies based on movie similarities and user preferences.
 
 This project explores how different recommendation techniques can be combined to generate personalized movie recommendations while considering ranking quality, diversity, and novelty.
 
